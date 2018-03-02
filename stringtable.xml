@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="ATM Airdrop">
+	<Package name="ATMDrop">
+		<Key ID="STR_ATM_Alt">
+			<English>Altitude:</English>
+			<French>Altitude:</French>
+		</Key>
+		<Key ID="STR_ATM_Keys">
+			<English>Select Key:</English>
+			<French>Choisir Une touche:</French>
+		</Key>
+		<Key ID="STR_ATM_Main">
+			<English>Choose your Altitude and Cut Key</English>
+			<French>Choisir votre altitude et une touche</French>
+		<Key>
+		<Key ID="STR_ATM_hover">
+			<English>Select your altitude and your key</English>
+			<French>Selectionner votre altitude et votre touche</French>
+		</Key>
+		<Key ID="STR_ATM_hinton">
+			<English>Select Altitude and Designate LZ for HALO Jump on the map</English>
+			<French>Sélectionner votre Altitude et désigner une LZ sur la carte</French>
+		</Key>
+		<Key ID="STR_ATM_hintjump">
+			<English>PRESS KEY TO CUT-AWAY ROPES</English>
+			<French>Appuyer sur votre touche pour couper les suspentes</French>
+		</Key>
+		<Key ID="STR_ATM_hintload">
+			<English>loading loadout ...</English>
+			<French>Chargement de votre équipement ...</French>
+		</Key>
+		<Key ID="STR_ATM_Close">
+			<English>Close</English>
+			<French>Fermer</French>
+		</Key>
+	</Package>
+</Project>
+
+<Project name="Domination">
+<Package name="Domination">
+<Container name="Mission">
+	<Key ID="STR_DOM_MISSIONSTRING_0">
+		<English>Welcome to Naksquad!</English>
+		<German>Willkommen bei Naksquad!</German>
+		<Italian>Benvenuti a Naksquad!</Italian>
+		<Spanish>Bienvenido a Naksquad</Spanish>
+		<Czech>Vítejte na Naksquad!</Czech>
+		<Russian>Добро пожаловать в Naksquad!</Russian>
+		<Polish>Witamy Naksquad!</Polish>
+		<French>Bienvenue a Naksquad!</French>
+		<Hungarian>Üdvözöljük a Naksquad!</Hungarian>
+		<Portuguese>Bem-vindo a Naksquad!</Portuguese>
+	</Key>
+	<Key ID="STR_DOM_MISSIONSTRING_1">
+		<English>Have a Nice Time!</English>
+		<German>Viel Spaß!</German>
+		<Italian>Divertiti!</Italian>
+		<Spanish>Que se Divierta</Spanish>
+		<Czech>Užij si To</Czech>
+		<Russian>Приятно провести время!</Russian>
+		<Polish>Baw się Dobrze!</Polish>
+		<French>Passez un Bon Moment!</French>
+		<Hungarian>Érezd Jól Magad!</Hungarian>
+		<Portuguese>Tem Um Tempo Bom!</Portuguese>
+	</Key>
+	<Key ID="STR_DOM_MISSIONSTRING_2">
+		<English>Welcome</English>
+		<German>Willkommen</German>
+		<Italian>Benvenuti</Italian>
+		<Spanish>Bienvenido</Spanish>
+		<Czech>Vítejte</Czech>
+		<Russian>Добро</Russian>
+		<Polish>Witamy</Polish>
+		<French>Bienvenue</French>
+		<Hungarian>Üdvözöljük</Hungarian>
+		<Portuguese>Bem-vindo</Portuguese>
+	</Key>
+	<Key ID="STR_DOM_MISSIONSTRING_3">
+		<English>Please Donate at www.naksquad.net to Help Keep the Server Alive and Running</English>
+		<German>Bitte spenden Sie auf www.naksquad.net, um den Server am Leben zu erhalten</German>
+		<Italian>Si prega di donare www.naksquad.net per aiutare a mantenere il server Alive</Italian>
+		<Spanish>Por favor, donate en www.naksquad.net para ayudar a mantener el servidor vivo</Spanish>
+		<Czech>Prosím Donate na www.naksquad.net, které pomohou udržet Server živý</Czech>
+		<Russian>Пожалуйста, пожертвуйте на www.naksquad.net, чтобы помочь сохранить жизнь на сервере</Russian>
+		<Polish>Proszę Wpłać na www.naksquad.net aby pomóc utrzymać serwer Alive</Polish>
+		<French>Veuillez faire un don à www.naksquad.net pour aider à conserver le serveur</French>
+		<Hungarian>Kérjük adományoz www.naksquad.net, hogy segítsen megőrizni a Server Alive</Hungarian>
+		<Portuguese>Faça uma doação em www.naksquad.net para ajudar a manter o servidor vivo</Portuguese>
+	</Key>
+</Key>
+</Container>
+</Package>
+</Project>
